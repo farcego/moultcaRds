@@ -1,0 +1,18 @@
+Package: moultR
+Title: Summarise and Plot Bird Moult Card Data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Fer", role = c("aut", "cre"),
+           email = "farcego@gmail.com")
+Description: Tools to organise, summarise, analyse and plot bird moult
+    card data. The package includes schematic wing diagrams for visualising
+    feather moult extent and functions to prepare moult card records for
+    further analysis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends:
+    R (>= 4.1.0)
+Imports:
+    grid
