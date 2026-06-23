@@ -18,4 +18,4 @@ It provides simple tools to visualise moult extent in wing and tail diagrams.
 
 ```r
 # development version
-# remotes::install_github("your-user/moultR")
+# remotes::install_github("farcego/moultcaRds")
