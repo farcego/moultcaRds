@@ -21,8 +21,3 @@ It provides simple tools to visualise moult extent in wing and tail diagrams.
 ## development version
 remotes::install_github("farcego/moultcaRds")
 #+end_src
-
-** TODO
-*** IN-PROGRESS Figures to show static moult cards
-
-*** TODO Figures to show active moult cards
