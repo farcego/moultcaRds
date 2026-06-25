@@ -1,5 +1,7 @@
 * moultcaRds
 
+** Description
+
 *moultcaRds* is an R package for summarising, analysing and plotting
 bird moult card data.
 
@@ -8,9 +10,9 @@ It provides simple tools to visualise moult extent in wing and tail diagrams.
 
 ** Main aims
 
-- Store moult card data in a consistent format than cazn be easily ported to otherrelated R packages.
+- Store moult card data in a consistent format than can be easily ported to other related R packages.
 - Summarise moult extension by feather tracts andor individual feathers.
-- Plot schematic moult extent figures based on Jenni & Winkler bookk {cite}.
+- Plot schematic moult extent figures based on Jenni & Winkler book {cite}.
 - Prepare moult records for further analysis.
 - Keep dependencies minimal (~grid~ es un paquete que se instala junto con R).
 
