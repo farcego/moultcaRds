@@ -8,7 +8,7 @@ Description: Tools to organise, summarise, and plot bird moult data
     collected in standard moult cards. The package includes schematic
     wing diagrams for visualising wing/tail moult extent and functions
     to prepare moult card records for further analysis.
-License: GPL (>= 3)
+License: sGPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
