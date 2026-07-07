@@ -26,7 +26,7 @@ remotes::install_github("farcego/moultcaRds")
 
 
 ** Scripts
-x
+
 **** colSc.R
 defines an internal helper that converts normalized moult scores (0–1)
 into grey-scale colours for plotting feathers. Darker shades represent
@@ -44,6 +44,18 @@ guides, axes, and other graphical components surrounding the feathers.
 **** endPlot.R
 Restores the graphics state after plotting.  Cleans up the viewport
 and graphical parameters initialized by ~initPlot()~.
+
+**** initPlot.R
+Initializes the plotting environment for moult card rendering.  Sets
+up graphical parameters and viewports restored later by ~endPlot()~.
+
+**** plot.R
+Creates a graphical representation of a moult card.  Coordinates the
+rendering of feathers, labels, and other card components.
+
+**** wingCard.R
+Generates a complete wing moult card.  Uses the supplied moult data to
+draw primaries, secondaries, and associated wing labels.
 
 
 ** License
