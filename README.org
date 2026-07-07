@@ -31,3 +31,13 @@ remotes::install_github("farcego/moultcaRds")
 defines an internal helper that converts normalized moult scores (0–1)
 into grey-scale colours for plotting feathers. Darker shades represent
 more advanced moult.
+
+
+
+
+** License
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or any
+later version.
