@@ -61,5 +61,5 @@ draw primaries, secondaries, and associated wing labels.
 ** License
 
 
-This project is distributed under the GNU General Public License v3.0
+This package is distributed under the GNU General Public License v3.0
 ([[file:LICENSE][GPL-3.0]]).
